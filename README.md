@@ -1,4 +1,5 @@
 # latihan-kolaborasi-bang
 
-ini commit satu
-2222222222222
+ini commit satu  
+2222222222222  
+3. memindah baris
