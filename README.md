@@ -2,5 +2,5 @@
 
 ini commit satu  
 2222222222222  
-3. memindah baris  
-nyobaa ulang 
+nyobaa ulang  
+hapus '3. memindah baris'
